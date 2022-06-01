@@ -9,6 +9,6 @@
     </a>
   </div>
   <h3>
-    Dinmuhammad Yagafarov
+    DINMUHAMMAD YAGAFAROV
   </h3>
 </div>
